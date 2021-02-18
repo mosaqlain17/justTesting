@@ -1,0 +1,6 @@
+Chrome
+FireFox
+Edge
+IE
+Uc Browser
+Brave
