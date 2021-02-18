@@ -1,6 +1,5 @@
 Chrome
-FireFox
-Edge
-IE
-Uc Browser
+UC Browser
+Tor
 Brave
+Opera
